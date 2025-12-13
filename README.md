@@ -1,4 +1,3 @@
--- UH卡密验证+飞行修复+防坠落+面板改名版
 local lp=game.Players.LocalPlayer
 local char=lp.Character or lp.CharacterAdded:Wait()
 local hum=char:WaitForChild("Humanoid")
